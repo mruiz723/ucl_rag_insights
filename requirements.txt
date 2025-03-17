@@ -1,0 +1,12 @@
+ipykernel # IPython kernel for Jupyter
+langchain
+langchain-core
+langchain-openai
+langchain_chroma
+langchain-text-splitters
+langchain-community
+wikipedia
+#langchain-cohere
+#cohere
+chromadb
+rank_bm25
